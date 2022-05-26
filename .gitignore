@@ -1,0 +1,12 @@
+
+# Build Script environment file
+/.env
+
+# phpStorm IDE files
+/.idea
+
+# local dev stuff
+/logs
+/dist
+/90north.test
+
